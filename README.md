@@ -4,4 +4,4 @@ A Flutter application that displays TV series fetched from the TVMaze website an
 
 ## Getting Started
 
-The test apk can be found in the `distributions` folder.
+The test apk can be found in the `distribution` folder.
